@@ -1,0 +1,16 @@
+Todo
+====================================================================================================================
+Chit-chat
+	An web app that enables us to chat with different people who are connected to the server.
+
+====================================================================================================================
+Steps
+
+	-Server
+		create a log of all the messages with name and time posted.
+		give out the data required by the client
+
+	-Slient
+		Option to give the name. should ask the name only one time
+		Send the message to the server
+
